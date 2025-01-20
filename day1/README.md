@@ -29,5 +29,5 @@
 
 ### overall things to know for fine tuning of FM 
 
-<img src="fine2.png">
+<img src="fm2.png">
 

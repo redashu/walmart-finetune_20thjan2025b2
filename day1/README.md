@@ -31,3 +31,13 @@
 
 <img src="fm2.png">
 
+### gpt fine tuning data preparation 
+
+<img src="data1.png">
+
+### sample data format understanding 
+
+<img src="data2.png">
+
+
+

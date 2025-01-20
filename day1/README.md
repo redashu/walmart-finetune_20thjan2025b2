@@ -1,1 +1,4 @@
-# walmart-finetune_20thjan2025b2
+### Before we fine tune LLM's -- > things we need to know 
+
+<img src="know.png">
+

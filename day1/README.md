@@ -40,4 +40,21 @@
 <img src="data2.png">
 
 
+### GPT model fine tuning using platform openai dashboard 
+
+<img src="opend.png">
+
+
+### to do query to a fine tuned model 
+
+<img src="q1.png">
+
+### Google colab 
+## storage from driver + os from google cloud 
+
+### installing openai in colab 
+
+```
+!pip install openai==1.59.9
+```
 

@@ -1,1 +1,4 @@
-# walmart-finetune_20thjan2025b2
+## Training time 
+
+<img src="time.png">
+

@@ -38,3 +38,9 @@ Collecting tqdm>4
   Using cached tqdm-4.67.1-py3-none-any.wh
 
 ```
+
+### to FInd some sample codes of fine tuning or other purpose -- using Openai Cookbook
+
+[click_here](https://cookbook.openai.com/)
+
+

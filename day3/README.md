@@ -14,6 +14,31 @@
 
 <img src="fm3.png">
 
+# INtro to LLama model 
+
+<img src="llm1.png">
+
+### using llama in various places 
+
+<img src="llm2.png">
+
+## accessing GPT vs LLama 
+
+<img src="llama1.png">
+
+
+## Hugging face info 
+
+<img src="hug1.png">
+
+### downloading llama model 
+
+<img src="hug2.png">
+
+### to interact with llama model we need to choose pipeline 
+
+[click_here](https://huggingface.co/docs/transformers/en/main_classes/pipelines)
+
 
 # Fine tuning in foundation model updates (types of parameter)
 

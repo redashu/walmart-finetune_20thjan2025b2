@@ -6,6 +6,15 @@
 
 <img src="fm1.png">
 
+##  High Level Foundation model Fine tuning 
+
+<img src="fm2.png">
+
+### Techniques to fine tune models
+
+<img src="fm3.png">
+
+
 # Fine tuning in foundation model updates (types of parameter)
 
 # Types of Parameters in Fine-Tuning

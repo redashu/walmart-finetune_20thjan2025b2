@@ -1,1 +1,4 @@
-# walmart-finetune_20thjan2025b2
+## Revision and understanding fine internals 
+
+<img src="rev1.png">
+

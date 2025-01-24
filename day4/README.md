@@ -15,3 +15,7 @@
 
 <img src="quant.png">
 
+### INtro to RAG
+
+<img src="rag1.png">
+

@@ -1,3 +1,11 @@
+# Model deployment options 
+
+### locally on laptops with and without GPU 
+
+### OLLama
+[click_here](https://github.com/ollama/ollama?tab=readme-ov-file)
+
+
 # Fine-Tuning Methods for Foundation Models
 
 ## High-Level Training Methods

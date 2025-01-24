@@ -2,6 +2,9 @@
 
 ### locally on laptops with and without GPU 
 
+### what is LLM video link 
+[click_here](https://www.youtube.com/watch?v=zizonToFXDs)
+
 ### OLLama
 [click_here](https://github.com/ollama/ollama?tab=readme-ov-file)
 

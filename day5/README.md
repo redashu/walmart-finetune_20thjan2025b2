@@ -23,3 +23,11 @@ Collecting openai==1.59.8
      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 ```
 
+### Game changer in fine tuning using Unsloth 
+
+<img src="unsloth.png">
+
+## Unsloth github 
+
+[click_here](https://github.com/unslothai/unsloth)
+
